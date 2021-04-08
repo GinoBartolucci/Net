@@ -1,0 +1,12 @@
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\bin\Debug\Windows.exe.config
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\bin\Debug\Windows.exe
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\bin\Debug\Windows.pdb
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\bin\Debug\Util.dll
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\bin\Debug\Util.pdb
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.Properties.Resources.resources
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.csproj.CopyComplete
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.exe
+J:\Documents\Proyectos\Net\Net\Unidad01\Capitulo02\Lab01\Windows\obj\Debug\Windows.pdb
