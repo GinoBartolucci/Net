@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSintaxis2", "LabSintaxis2\LabSintaxis2.csproj", "{FEF27557-9686-4223-8D96-D5903B0EA83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF27557-9686-4223-8D96-D5903B0EA83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF27557-9686-4223-8D96-D5903B0EA83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF27557-9686-4223-8D96-D5903B0EA83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF27557-9686-4223-8D96-D5903B0EA83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67B95FFB-439E-4781-AD3B-A93EB15B18F2}
+	EndGlobalSection
+EndGlobal
