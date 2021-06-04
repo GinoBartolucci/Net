@@ -1,0 +1,10 @@
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\bin\Debug\LabClases1.exe.config
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\bin\Debug\LabClases1.exe
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\bin\Debug\LabClases1.pdb
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\obj\Debug\LabClases1.csprojAssemblyReference.cache
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.CoreCompileInputs.cache
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\obj\Debug\LabClases1.exe
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\obj\Debug\LabClases1.pdb
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\bin\Debug\Clases.dll
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\bin\Debug\Clases.pdb
+J:\Documents\Proyectos\Net\Net\Unidad02\Capitulo02\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.CopyComplete
