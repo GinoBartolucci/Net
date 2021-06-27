@@ -16,6 +16,11 @@ namespace Clases
     {
         public void F() { Console.WriteLine("B.F"); }
         public void G() { Console.WriteLine("B.G"); }
+        int dato;
+        static void Hola()
+        {
+            Console.WriteLine("el dato es: " + dato);
+        }
     }
 
 }
